@@ -9,4 +9,5 @@ WindowsAutorun - поможет вам управлять автозагрузк
 ## Как использовать?
 В зависимости от типа автозагрузки( для реестра - Autorun.Windows.Register.pas, для папки - Autorun.Windows.StartupDir.pas) подключите необходимый модуль. Далее необходимо инициализировать переменную типа **IAutorunManager** необходимым поддерживаемым классом и работать с этим интерфейсом. 
 
-
+We are a family owned and operated business.
+We are a family owned and operated business.
